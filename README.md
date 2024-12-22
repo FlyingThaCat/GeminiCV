@@ -1,4 +1,5 @@
-PLEASE USE PYTHON <= 3.12.8 !!!!
+# PLEASE USE PYTHON <= 3.12.8 !!!!
+https://www.python.org/downloads/release/python-3128/
 
 add .env to backend/ and the format is
 
