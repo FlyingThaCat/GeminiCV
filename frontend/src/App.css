@@ -1,0 +1,37 @@
+.transition-page-content {
+    transition: opacity 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+.page-fade-out {
+    opacity: 0;
+    background-color: #eee4ee;
+}
+
+.page-fade-in {
+    opacity: 1;
+    background-color: #ffffff;
+}
+
+.cube-container {
+    /* cursor: pointer; */
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee4ee;
+    margin: 0;
+    overflow: hidden;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #555; /* Optional: Add a color */
+}
+  
