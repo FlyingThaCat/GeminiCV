@@ -1,3 +1,5 @@
+PLEASE USE PYTHON <= 3.12.8 !!!!
+
 add .env to backend/ and the format is
 
 ```
