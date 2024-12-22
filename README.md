@@ -39,3 +39,13 @@ npm run start
 ```
 
 done
+
+## URL:
+### Setup Page
+http://localhost:3000/setup
+
+### Reset Page
+http://localhost:3000/reset
+
+### Home Page
+http://localhost:3000
