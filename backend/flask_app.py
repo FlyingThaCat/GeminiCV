@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 ALLOWED_EXTENSIONS = set(['pdf'])
-UPLOAD_FOLDER = '.data/'
+UPLOAD_FOLDER = './data/'
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024 # 10MB
